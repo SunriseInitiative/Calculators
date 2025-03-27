@@ -20,7 +20,10 @@ Click Run
 
 ## Running it
 From running it, the prompts in the script will point you in how to use it  
-
+If there are no helpful prompts/ or you can't understand them, check the Markdown files  
+The Markdown files / `.md` files detail how to use each script  
+They will be called `AAA-`The section you are in`-WIKI.md`
+There will be a list of them here : [Wiki Links List](/WIKILINKS.md)
 # Why we made this
 
 I hate Sparx Maths  
