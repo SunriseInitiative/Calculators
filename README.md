@@ -8,7 +8,7 @@ Paste the contents into this [Online Python Runner](https://www.programiz.com/py
 Hit run
 
 ## Offline Instructions
-Download Github Desktop
+Download Github Desktop \n
 Download Visual Studio Code (prefered) but any Code IDE or Python runner will suffice
 Setup your IDE to run python, People that downloaded Python itself can skip this
 Clone this repository from **Github Desktop** into a folder of your choice
