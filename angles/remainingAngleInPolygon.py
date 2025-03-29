@@ -1,6 +1,8 @@
 angles = []
 angleSum = 0
 maxAngleSum = 0
+print("Enter the angles of the polygon: ")
+print("Type e to exit")
 while True:
     try:
         N = int(input())
